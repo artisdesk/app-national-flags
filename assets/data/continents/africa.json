@@ -5,7 +5,7 @@
         "name_en": "Algeria",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/阿尔及利亚.jpg"
+        "img": "assets/images/flags/阿尔及利亚.jpg"
     },
     {
         "index": 2,
@@ -13,7 +13,7 @@
         "name_en": "Egypt",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/埃及.jpg"
+        "img": "assets/images/flags/埃及.jpg"
     },
     {
         "index": 3,
@@ -21,7 +21,7 @@
         "name_en": "Ethiopia",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/埃塞俄比亚.jpg"
+        "img": "assets/images/flags/埃塞俄比亚.jpg"
     },
     {
         "index": 4,
@@ -29,7 +29,7 @@
         "name_en": "Angola",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/安哥拉.jpg"
+        "img": "assets/images/flags/安哥拉.jpg"
     },
     {
         "index": 5,
@@ -37,7 +37,7 @@
         "name_en": "Benin",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/贝宁.jpg"
+        "img": "assets/images/flags/贝宁.jpg"
     },
     {
         "index": 6,
@@ -45,7 +45,7 @@
         "name_en": "Botswana",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/博茨瓦纳.jpg"
+        "img": "assets/images/flags/博茨瓦纳.jpg"
     },
     {
         "index": 7,
@@ -53,7 +53,7 @@
         "name_en": "Burkina Faso",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/布基纳法索.jpg"
+        "img": "assets/images/flags/布基纳法索.jpg"
     },
     {
         "index": 8,
@@ -61,7 +61,7 @@
         "name_en": "Burundi",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/布隆迪.jpg"
+        "img": "assets/images/flags/布隆迪.jpg"
     },
     {
         "index": 9,
@@ -69,7 +69,7 @@
         "name_en": "Equatorial Guinea",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/赤道几内亚.jpg"
+        "img": "assets/images/flags/赤道几内亚.jpg"
     },
     {
         "index": 10,
@@ -77,7 +77,7 @@
         "name_en": "Togo",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/多哥.jpg"
+        "img": "assets/images/flags/多哥.jpg"
     },
     {
         "index": 11,
@@ -85,7 +85,7 @@
         "name_en": "Eritrea",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/厄立特里亚.jpg"
+        "img": "assets/images/flags/厄立特里亚.jpg"
     },
     {
         "index": 12,
@@ -93,7 +93,7 @@
         "name_en": "Cape Verde",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/佛得角.jpg"
+        "img": "assets/images/flags/佛得角.jpg"
     },
     {
         "index": 13,
@@ -101,7 +101,7 @@
         "name_en": "Gambia",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/冈比亚.jpg"
+        "img": "assets/images/flags/冈比亚.jpg"
     },
     {
         "index": 14,
@@ -109,7 +109,7 @@
         "name_en": "D.R. Congo",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/刚果（布）.jpg"
+        "img": "assets/images/flags/刚果（布）.jpg"
     },
     {
         "index": 15,
@@ -117,7 +117,7 @@
         "name_en": "Congo",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/刚果（金）.jpg"
+        "img": "assets/images/flags/刚果（金）.jpg"
     },
     {
         "index": 16,
@@ -125,7 +125,7 @@
         "name_en": "Djibouti",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/吉布提.jpg"
+        "img": "assets/images/flags/吉布提.jpg"
     },
     {
         "index": 17,
@@ -133,7 +133,7 @@
         "name_en": "Guinea",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/几内亚.jpg"
+        "img": "assets/images/flags/几内亚.jpg"
     },
     {
         "index": 18,
@@ -141,7 +141,7 @@
         "name_en": "Guinea-Bissau",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/几内亚比绍.jpg"
+        "img": "assets/images/flags/几内亚比绍.jpg"
     },
     {
         "index": 19,
@@ -149,7 +149,7 @@
         "name_en": "Ghana",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/加纳.jpg"
+        "img": "assets/images/flags/加纳.jpg"
     },
     {
         "index": 20,
@@ -157,7 +157,7 @@
         "name_en": "Gabon",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/加蓬.jpg"
+        "img": "assets/images/flags/加蓬.jpg"
     },
     {
         "index": 21,
@@ -165,7 +165,7 @@
         "name_en": "Zimbabwe",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/津巴布韦.jpg"
+        "img": "assets/images/flags/津巴布韦.jpg"
     },
     {
         "index": 22,
@@ -173,7 +173,7 @@
         "name_en": "Cameroon",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/喀麦隆.jpg"
+        "img": "assets/images/flags/喀麦隆.jpg"
     },
     {
         "index": 23,
@@ -181,7 +181,7 @@
         "name_en": "Comoros",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/科摩罗.jpg"
+        "img": "assets/images/flags/科摩罗.jpg"
     },
     {
         "index": 24,
@@ -189,7 +189,7 @@
         "name_en": "Côte d'Ivoire",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/科特迪瓦.jpg"
+        "img": "assets/images/flags/科特迪瓦.jpg"
     },
     {
         "index": 25,
@@ -197,7 +197,7 @@
         "name_en": "Kenya",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/肯尼亚.jpg"
+        "img": "assets/images/flags/肯尼亚.jpg"
     },
     {
         "index": 26,
@@ -205,7 +205,7 @@
         "name_en": "Lesotho",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/莱索托.jpg"
+        "img": "assets/images/flags/莱索托.jpg"
     },
     {
         "index": 27,
@@ -213,7 +213,7 @@
         "name_en": "Liberia",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/利比里亚.jpg"
+        "img": "assets/images/flags/利比里亚.jpg"
     },
     {
         "index": 28,
@@ -221,7 +221,7 @@
         "name_en": "Libya",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/利比亚.jpg"
+        "img": "assets/images/flags/利比亚.jpg"
     },
     {
         "index": 29,
@@ -229,7 +229,7 @@
         "name_en": "Rwanda",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/卢旺达.jpg"
+        "img": "assets/images/flags/卢旺达.jpg"
     },
     {
         "index": 30,
@@ -237,7 +237,7 @@
         "name_en": "Madagascar",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/马达加斯加.jpg"
+        "img": "assets/images/flags/马达加斯加.jpg"
     },
     {
         "index": 31,
@@ -245,7 +245,7 @@
         "name_en": "Malawi",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/马拉维.jpg"
+        "img": "assets/images/flags/马拉维.jpg"
     },
     {
         "index": 32,
@@ -253,7 +253,7 @@
         "name_en": "Mali",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/马里.jpg"
+        "img": "assets/images/flags/马里.jpg"
     },
     {
         "index": 33,
@@ -261,7 +261,7 @@
         "name_en": "Mauritius",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/毛里求斯.jpg"
+        "img": "assets/images/flags/毛里求斯.jpg"
     },
     {
         "index": 34,
@@ -269,7 +269,7 @@
         "name_en": "Mauritania",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/毛里塔尼亚.jpg"
+        "img": "assets/images/flags/毛里塔尼亚.jpg"
     },
     {
         "index": 35,
@@ -277,7 +277,7 @@
         "name_en": "Morocco",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/摩洛哥.jpg"
+        "img": "assets/images/flags/摩洛哥.jpg"
     },
     {
         "index": 36,
@@ -285,7 +285,7 @@
         "name_en": "Mozambique",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/莫桑比克.jpg"
+        "img": "assets/images/flags/莫桑比克.jpg"
     },
     {
         "index": 37,
@@ -293,7 +293,7 @@
         "name_en": "Namibia",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/纳米比亚.jpg"
+        "img": "assets/images/flags/纳米比亚.jpg"
     },
     {
         "index": 38,
@@ -301,7 +301,7 @@
         "name_en": "South Africa",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/南非.jpg"
+        "img": "assets/images/flags/南非.jpg"
     },
     {
         "index": 39,
@@ -309,7 +309,7 @@
         "name_en": "South Sudan",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/南苏丹.jpg"
+        "img": "assets/images/flags/南苏丹.jpg"
     },
     {
         "index": 40,
@@ -317,7 +317,7 @@
         "name_en": "Niger",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/尼日尔.jpg"
+        "img": "assets/images/flags/尼日尔.jpg"
     },
     {
         "index": 41,
@@ -325,7 +325,7 @@
         "name_en": "Nigeria",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/尼日利亚.jpg"
+        "img": "assets/images/flags/尼日利亚.jpg"
     },
     {
         "index": 42,
@@ -333,7 +333,7 @@
         "name_en": "Sierra Leone",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/塞拉利昂.jpg"
+        "img": "assets/images/flags/塞拉利昂.jpg"
     },
     {
         "index": 43,
@@ -341,7 +341,7 @@
         "name_en": "Senegal",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/塞内加尔.jpg"
+        "img": "assets/images/flags/塞内加尔.jpg"
     },
     {
         "index": 44,
@@ -349,7 +349,7 @@
         "name_en": "Seychelles",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/塞舌尔.jpg"
+        "img": "assets/images/flags/塞舌尔.jpg"
     },
     {
         "index": 45,
@@ -357,7 +357,7 @@
         "name_en": "São Tomé & Príncipe",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/圣多美和普林西比.jpg"
+        "img": "assets/images/flags/圣多美和普林西比.jpg"
     },
     {
         "index": 46,
@@ -365,7 +365,7 @@
         "name_en": "Swaziland",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/斯威士兰.jpg"
+        "img": "assets/images/flags/斯威士兰.jpg"
     },
     {
         "index": 47,
@@ -373,7 +373,7 @@
         "name_en": "Sudan",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/苏丹.jpg"
+        "img": "assets/images/flags/苏丹.jpg"
     },
     {
         "index": 48,
@@ -381,7 +381,7 @@
         "name_en": "Somalia",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/索马里.jpg"
+        "img": "assets/images/flags/索马里.jpg"
     },
     {
         "index": 49,
@@ -389,7 +389,7 @@
         "name_en": "Tanzania",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/坦桑尼亚.jpg"
+        "img": "assets/images/flags/坦桑尼亚.jpg"
     },
     {
         "index": 50,
@@ -397,7 +397,7 @@
         "name_en": "Tunisia",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/突尼斯.jpg"
+        "img": "assets/images/flags/突尼斯.jpg"
     },
     {
         "index": 51,
@@ -405,7 +405,7 @@
         "name_en": "Uganda",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/乌干达.jpg"
+        "img": "assets/images/flags/乌干达.jpg"
     },
     {
         "index": 52,
@@ -413,7 +413,7 @@
         "name_en": "Zambia",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/赞比亚.jpg"
+        "img": "assets/images/flags/赞比亚.jpg"
     },
     {
         "index": 53,
@@ -421,7 +421,7 @@
         "name_en": "Chad",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/乍得.jpg"
+        "img": "assets/images/flags/乍得.jpg"
     },
     {
         "index": 54,
@@ -429,7 +429,7 @@
         "name_en": "Central Africa",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/中非.jpg"
+        "img": "assets/images/flags/中非.jpg"
     },
     {
         "index": 55,
@@ -437,6 +437,6 @@
         "name_en": "Africa",
         "continent": "非洲",
         "continent_id": 276,
-        "img": "/assets/images/flags/非洲.jpg"
+        "img": "assets/images/flags/非洲.jpg"
     }
 ]

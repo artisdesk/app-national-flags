@@ -5,7 +5,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/美国.jpg"
+        "img": "assets/images/flags/美国.jpg"
     },
     {
         "index": 2,
@@ -13,7 +13,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/加拿大.jpg"
+        "img": "assets/images/flags/加拿大.jpg"
     },
     {
         "index": 3,
@@ -21,7 +21,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/墨西哥.jpg"
+        "img": "assets/images/flags/墨西哥.jpg"
     },
     {
         "index": 4,
@@ -29,7 +29,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/危地马拉.jpg"
+        "img": "assets/images/flags/危地马拉.jpg"
     },
     {
         "index": 5,
@@ -37,7 +37,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/伯利兹.jpg"
+        "img": "assets/images/flags/伯利兹.jpg"
     },
     {
         "index": 6,
@@ -45,7 +45,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/萨尔瓦多.jpg"
+        "img": "assets/images/flags/萨尔瓦多.jpg"
     },
     {
         "index": 7,
@@ -53,7 +53,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/洪都拉斯.jpg"
+        "img": "assets/images/flags/洪都拉斯.jpg"
     },
     {
         "index": 8,
@@ -61,7 +61,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/巴拿马.jpg"
+        "img": "assets/images/flags/巴拿马.jpg"
     },
     {
         "index": 9,
@@ -69,7 +69,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/巴哈马.jpg"
+        "img": "assets/images/flags/巴哈马.jpg"
     },
     {
         "index": 10,
@@ -77,7 +77,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/古巴.jpg"
+        "img": "assets/images/flags/古巴.jpg"
     },
     {
         "index": 11,
@@ -85,7 +85,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/牙买加.jpg"
+        "img": "assets/images/flags/牙买加.jpg"
     },
     {
         "index": 12,
@@ -93,7 +93,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/海地.jpg"
+        "img": "assets/images/flags/海地.jpg"
     },
     {
         "index": 13,
@@ -101,7 +101,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/多米尼加.jpg"
+        "img": "assets/images/flags/多米尼加.jpg"
     },
     {
         "index": 14,
@@ -109,7 +109,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/哥斯达黎加.jpg"
+        "img": "assets/images/flags/哥斯达黎加.jpg"
     },
     {
         "index": 15,
@@ -117,7 +117,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/圣基茨和尼维斯.jpg"
+        "img": "assets/images/flags/圣基茨和尼维斯.jpg"
     },
     {
         "index": 16,
@@ -125,7 +125,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/安提瓜和巴布达.jpg"
+        "img": "assets/images/flags/安提瓜和巴布达.jpg"
     },
     {
         "index": 17,
@@ -133,7 +133,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/多米尼克.jpg"
+        "img": "assets/images/flags/多米尼克.jpg"
     },
     {
         "index": 18,
@@ -141,7 +141,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/圣卢西亚.jpg"
+        "img": "assets/images/flags/圣卢西亚.jpg"
     },
     {
         "index": 19,
@@ -149,7 +149,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/圣文森特和格林纳丁斯.jpg"
+        "img": "assets/images/flags/圣文森特和格林纳丁斯.jpg"
     },
     {
         "index": 20,
@@ -157,7 +157,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/巴巴多斯.jpg"
+        "img": "assets/images/flags/巴巴多斯.jpg"
     },
     {
         "index": 21,
@@ -165,7 +165,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/格林纳达.jpg"
+        "img": "assets/images/flags/格林纳达.jpg"
     },
     {
         "index": 22,
@@ -173,7 +173,7 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/特立尼达和多巴哥.jpg"
+        "img": "assets/images/flags/特立尼达和多巴哥.jpg"
     },
     {
         "index": 23,
@@ -181,6 +181,6 @@
         "name_en": "",
         "continent": "北美洲",
         "continent_id": 275,
-        "img": "/assets/images/flags/尼加拉瓜.jpg"
+        "img": "assets/images/flags/尼加拉瓜.jpg"
     }
 ]

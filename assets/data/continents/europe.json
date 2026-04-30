@@ -5,7 +5,7 @@
         "name_en": "French",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/法国.jpg"
+        "img": "assets/images/flags/法国.jpg"
     },
     {
         "index": 2,
@@ -13,7 +13,7 @@
         "name_en": "Germany",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/德国.jpg"
+        "img": "assets/images/flags/德国.jpg"
     },
     {
         "index": 3,
@@ -21,7 +21,7 @@
         "name_en": "United Kingdom",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/英国.jpg"
+        "img": "assets/images/flags/英国.jpg"
     },
     {
         "index": 4,
@@ -29,7 +29,7 @@
         "name_en": "Russia",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/俄罗斯.jpg"
+        "img": "assets/images/flags/俄罗斯.jpg"
     },
     {
         "index": 5,
@@ -37,7 +37,7 @@
         "name_en": "Italy",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/意大利.jpg"
+        "img": "assets/images/flags/意大利.jpg"
     },
     {
         "index": 6,
@@ -45,7 +45,7 @@
         "name_en": "Spain",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/西班牙.jpg"
+        "img": "assets/images/flags/西班牙.jpg"
     },
     {
         "index": 7,
@@ -53,7 +53,7 @@
         "name_en": "Switzerland",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/瑞士.jpg"
+        "img": "assets/images/flags/瑞士.jpg"
     },
     {
         "index": 8,
@@ -61,7 +61,7 @@
         "name_en": "Hungary",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/匈牙利.jpg"
+        "img": "assets/images/flags/匈牙利.jpg"
     },
     {
         "index": 9,
@@ -69,7 +69,7 @@
         "name_en": "Belgium",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/比利时.jpg"
+        "img": "assets/images/flags/比利时.jpg"
     },
     {
         "index": 10,
@@ -77,7 +77,7 @@
         "name_en": "Netherlands",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/荷兰.jpg"
+        "img": "assets/images/flags/荷兰.jpg"
     },
     {
         "index": 11,
@@ -85,7 +85,7 @@
         "name_en": "Portugal",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/葡萄牙.jpg"
+        "img": "assets/images/flags/葡萄牙.jpg"
     },
     {
         "index": 12,
@@ -93,7 +93,7 @@
         "name_en": "Denmark",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/丹麦.jpg"
+        "img": "assets/images/flags/丹麦.jpg"
     },
     {
         "index": 13,
@@ -101,7 +101,7 @@
         "name_en": "Norway",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/挪威.jpg"
+        "img": "assets/images/flags/挪威.jpg"
     },
     {
         "index": 14,
@@ -109,7 +109,7 @@
         "name_en": "Sweden",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/瑞典.jpg"
+        "img": "assets/images/flags/瑞典.jpg"
     },
     {
         "index": 15,
@@ -117,7 +117,7 @@
         "name_en": "Finland",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/芬兰.jpg"
+        "img": "assets/images/flags/芬兰.jpg"
     },
     {
         "index": 16,
@@ -125,7 +125,7 @@
         "name_en": "Poland",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/波兰.jpg"
+        "img": "assets/images/flags/波兰.jpg"
     },
     {
         "index": 17,
@@ -133,7 +133,7 @@
         "name_en": "Austria",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/奥地利.jpg"
+        "img": "assets/images/flags/奥地利.jpg"
     },
     {
         "index": 18,
@@ -141,7 +141,7 @@
         "name_en": "Greece",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/希腊.jpg"
+        "img": "assets/images/flags/希腊.jpg"
     },
     {
         "index": 19,
@@ -149,7 +149,7 @@
         "name_en": "Ireland",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/爱尔兰.jpg"
+        "img": "assets/images/flags/爱尔兰.jpg"
     },
     {
         "index": 20,
@@ -157,7 +157,7 @@
         "name_en": "Czech Republic",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/捷克.jpg"
+        "img": "assets/images/flags/捷克.jpg"
     },
     {
         "index": 21,
@@ -165,7 +165,7 @@
         "name_en": "Malta",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/马耳他.jpg"
+        "img": "assets/images/flags/马耳他.jpg"
     },
     {
         "index": 22,
@@ -173,7 +173,7 @@
         "name_en": "Slovakia",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/斯洛伐克.jpg"
+        "img": "assets/images/flags/斯洛伐克.jpg"
     },
     {
         "index": 23,
@@ -181,7 +181,7 @@
         "name_en": "Vatican",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/梵蒂冈.jpg"
+        "img": "assets/images/flags/梵蒂冈.jpg"
     },
     {
         "index": 24,
@@ -189,7 +189,7 @@
         "name_en": "Türkiye",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/土耳其.jpg"
+        "img": "assets/images/flags/土耳其.jpg"
     },
     {
         "index": 25,
@@ -197,7 +197,7 @@
         "name_en": "Bulgaria",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/保加利亚.jpg"
+        "img": "assets/images/flags/保加利亚.jpg"
     },
     {
         "index": 26,
@@ -205,7 +205,7 @@
         "name_en": "Romania",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/罗马尼亚.jpg"
+        "img": "assets/images/flags/罗马尼亚.jpg"
     },
     {
         "index": 27,
@@ -213,7 +213,7 @@
         "name_en": "Belarus",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/白俄罗斯.jpg"
+        "img": "assets/images/flags/白俄罗斯.jpg"
     },
     {
         "index": 28,
@@ -221,7 +221,7 @@
         "name_en": "Slovenia",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/斯洛文尼亚.jpg"
+        "img": "assets/images/flags/斯洛文尼亚.jpg"
     },
     {
         "index": 29,
@@ -229,7 +229,7 @@
         "name_en": "Croatia",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/克罗地亚.jpg"
+        "img": "assets/images/flags/克罗地亚.jpg"
     },
     {
         "index": 30,
@@ -237,7 +237,7 @@
         "name_en": "Iceland",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/冰岛.jpg"
+        "img": "assets/images/flags/冰岛.jpg"
     },
     {
         "index": 31,
@@ -245,7 +245,7 @@
         "name_en": "Ukraine",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/乌克兰.jpg"
+        "img": "assets/images/flags/乌克兰.jpg"
     },
     {
         "index": 32,
@@ -253,7 +253,7 @@
         "name_en": "Albania",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/阿尔巴尼亚.jpg"
+        "img": "assets/images/flags/阿尔巴尼亚.jpg"
     },
     {
         "index": 33,
@@ -261,7 +261,7 @@
         "name_en": "Latvia",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/拉脱维亚.jpg"
+        "img": "assets/images/flags/拉脱维亚.jpg"
     },
     {
         "index": 34,
@@ -269,7 +269,7 @@
         "name_en": "Lithuania",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/立陶宛.jpg"
+        "img": "assets/images/flags/立陶宛.jpg"
     },
     {
         "index": 35,
@@ -277,7 +277,7 @@
         "name_en": "Monaco",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/摩纳哥.jpg"
+        "img": "assets/images/flags/摩纳哥.jpg"
     },
     {
         "index": 36,
@@ -285,7 +285,7 @@
         "name_en": "Liechtenstein",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/列支敦士登.jpg"
+        "img": "assets/images/flags/列支敦士登.jpg"
     },
     {
         "index": 37,
@@ -293,7 +293,7 @@
         "name_en": "Moldova",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/摩尔多瓦.jpg"
+        "img": "assets/images/flags/摩尔多瓦.jpg"
     },
     {
         "index": 38,
@@ -301,7 +301,7 @@
         "name_en": "Andorra",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/安道尔.jpg"
+        "img": "assets/images/flags/安道尔.jpg"
     },
     {
         "index": 39,
@@ -309,7 +309,7 @@
         "name_en": "Estonia",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/爱沙尼亚.jpg"
+        "img": "assets/images/flags/爱沙尼亚.jpg"
     },
     {
         "index": 40,
@@ -317,7 +317,7 @@
         "name_en": "Luxembourg",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/卢森堡.jpg"
+        "img": "assets/images/flags/卢森堡.jpg"
     },
     {
         "index": 41,
@@ -325,7 +325,7 @@
         "name_en": "San Marino",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/圣马力诺.jpg"
+        "img": "assets/images/flags/圣马力诺.jpg"
     },
     {
         "index": 42,
@@ -333,7 +333,7 @@
         "name_en": "Bosnia and Herzegovina",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/波斯尼亚和黑塞哥维那.jpg"
+        "img": "assets/images/flags/波斯尼亚和黑塞哥维那.jpg"
     },
     {
         "index": 43,
@@ -341,7 +341,7 @@
         "name_en": "Serbia",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/塞尔维亚.jpg"
+        "img": "assets/images/flags/塞尔维亚.jpg"
     },
     {
         "index": 44,
@@ -349,7 +349,7 @@
         "name_en": "North Macedonia",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/北马其顿.jpg"
+        "img": "assets/images/flags/北马其顿.jpg"
     },
     {
         "index": 45,
@@ -357,7 +357,7 @@
         "name_en": "Montenegro Republic",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/黑山共和国.jpg"
+        "img": "assets/images/flags/黑山共和国.jpg"
     },
     {
         "index": 46,
@@ -365,6 +365,6 @@
         "name_en": "England",
         "continent": "欧洲",
         "continent_id": 270,
-        "img": "/assets/images/flags/英格兰.jpg"
+        "img": "assets/images/flags/英格兰.jpg"
     }
 ]

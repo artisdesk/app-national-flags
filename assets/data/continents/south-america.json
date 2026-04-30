@@ -5,7 +5,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/厄瓜多尔.jpg"
+        "img": "assets/images/flags/厄瓜多尔.jpg"
     },
     {
         "index": 2,
@@ -13,7 +13,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/哥伦比亚.jpg"
+        "img": "assets/images/flags/哥伦比亚.jpg"
     },
     {
         "index": 3,
@@ -21,7 +21,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/委内瑞拉.jpg"
+        "img": "assets/images/flags/委内瑞拉.jpg"
     },
     {
         "index": 4,
@@ -29,7 +29,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/秘鲁.jpg"
+        "img": "assets/images/flags/秘鲁.jpg"
     },
     {
         "index": 5,
@@ -37,7 +37,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/巴西.jpg"
+        "img": "assets/images/flags/巴西.jpg"
     },
     {
         "index": 6,
@@ -45,7 +45,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/智利.jpg"
+        "img": "assets/images/flags/智利.jpg"
     },
     {
         "index": 7,
@@ -53,7 +53,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/乌拉圭.jpg"
+        "img": "assets/images/flags/乌拉圭.jpg"
     },
     {
         "index": 8,
@@ -61,7 +61,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/巴拉圭.jpg"
+        "img": "assets/images/flags/巴拉圭.jpg"
     },
     {
         "index": 9,
@@ -69,7 +69,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/阿根廷.jpg"
+        "img": "assets/images/flags/阿根廷.jpg"
     },
     {
         "index": 10,
@@ -77,7 +77,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/玻利维亚.jpg"
+        "img": "assets/images/flags/玻利维亚.jpg"
     },
     {
         "index": 11,
@@ -85,7 +85,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/圭亚那.jpg"
+        "img": "assets/images/flags/圭亚那.jpg"
     },
     {
         "index": 12,
@@ -93,7 +93,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/苏里南.jpg"
+        "img": "assets/images/flags/苏里南.jpg"
     },
     {
         "index": 13,
@@ -101,7 +101,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/法属圭亚那.jpg"
+        "img": "assets/images/flags/法属圭亚那.jpg"
     },
     {
         "index": 14,
@@ -109,7 +109,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/福克兰群岛.jpg"
+        "img": "assets/images/flags/福克兰群岛.jpg"
     },
     {
         "index": 15,
@@ -117,7 +117,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/南乔治亚岛和南桑威奇群岛.jpg"
+        "img": "assets/images/flags/南乔治亚岛和南桑威奇群岛.jpg"
     },
     {
         "index": 16,
@@ -125,7 +125,7 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/巴西.jpg"
+        "img": "assets/images/flags/巴西.jpg"
     },
     {
         "index": 17,
@@ -133,6 +133,6 @@
         "name_en": "",
         "continent": "南美洲",
         "continent_id": 273,
-        "img": "/assets/images/flags/秘鲁.jpg"
+        "img": "assets/images/flags/秘鲁.jpg"
     }
 ]

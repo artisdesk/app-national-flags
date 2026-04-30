@@ -5,7 +5,7 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/澳大利亚.jpg"
+        "img": "assets/images/flags/澳大利亚.jpg"
     },
     {
         "index": 2,
@@ -13,7 +13,7 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/新西兰.jpg"
+        "img": "assets/images/flags/新西兰.jpg"
     },
     {
         "index": 3,
@@ -21,7 +21,7 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/帕劳.jpg"
+        "img": "assets/images/flags/帕劳.jpg"
     },
     {
         "index": 4,
@@ -29,7 +29,7 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/密克罗尼西亚联邦.jpg"
+        "img": "assets/images/flags/密克罗尼西亚联邦.jpg"
     },
     {
         "index": 5,
@@ -37,7 +37,7 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/马绍尔群岛.jpg"
+        "img": "assets/images/flags/马绍尔群岛.jpg"
     },
     {
         "index": 6,
@@ -45,7 +45,7 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/瑙鲁.jpg"
+        "img": "assets/images/flags/瑙鲁.jpg"
     },
     {
         "index": 7,
@@ -53,7 +53,7 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/巴布亚新几内亚.jpg"
+        "img": "assets/images/flags/巴布亚新几内亚.jpg"
     },
     {
         "index": 8,
@@ -61,7 +61,7 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/所罗门群岛.jpg"
+        "img": "assets/images/flags/所罗门群岛.jpg"
     },
     {
         "index": 9,
@@ -69,7 +69,7 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/瓦努阿图.jpg"
+        "img": "assets/images/flags/瓦努阿图.jpg"
     },
     {
         "index": 10,
@@ -77,7 +77,7 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/图瓦卢.jpg"
+        "img": "assets/images/flags/图瓦卢.jpg"
     },
     {
         "index": 11,
@@ -85,7 +85,7 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/斐济.jpg"
+        "img": "assets/images/flags/斐济.jpg"
     },
     {
         "index": 12,
@@ -93,7 +93,7 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/萨摩亚.jpg"
+        "img": "assets/images/flags/萨摩亚.jpg"
     },
     {
         "index": 13,
@@ -101,7 +101,7 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/基里巴斯.jpg"
+        "img": "assets/images/flags/基里巴斯.jpg"
     },
     {
         "index": 14,
@@ -109,7 +109,7 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/汤加.jpg"
+        "img": "assets/images/flags/汤加.jpg"
     },
     {
         "index": 15,
@@ -117,7 +117,7 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/库克群岛.jpg"
+        "img": "assets/images/flags/库克群岛.jpg"
     },
     {
         "index": 16,
@@ -125,6 +125,6 @@
         "name_en": "",
         "continent": "大洋洲",
         "continent_id": 340,
-        "img": "/assets/images/flags/纽埃.jpg"
+        "img": "assets/images/flags/纽埃.jpg"
     }
 ]
